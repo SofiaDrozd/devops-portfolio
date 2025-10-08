@@ -15,9 +15,9 @@ Closes #ISSUE_NUMBER
 ##  Testing
 Describe the tests you ran to verify your changes. Provide instructions so reviewers can reproduce.
 
- -  Run `...`
- -  Open `...`
- -  Verify `...`
+ 1.  Run `...`
+ 2.  Open `...`
+ 3. Verify `...`
 
 ##  Screenshots (if applicable)
 Add screenshots here to help explain changes.
