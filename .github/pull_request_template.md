@@ -21,7 +21,7 @@ Describe the tests you ran to verify your changes. Provide instructions so revie
 
 - Run `...`
 
-1.  Open `...`
+-   Open `...`
 2.  Verify `...`
 
 ## Screenshots (if applicable)
